@@ -1,4 +1,4 @@
-# Junior Penetration Tester Notes
+# Notes For PT1 Exam
 
 Practical study notes and command references for the [TryHackMe Junior
 Penetration Tester (PT1) certification](https://tryhackme.com/certification/junior-penetration-tester/details).
